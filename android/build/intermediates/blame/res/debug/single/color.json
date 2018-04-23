@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Cellfind\\Github\\cellfind-chat-ios\\node_modules\\react-native-doc-viewer\\android\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\myccb\\.android\\build-cache\\6b1b121b6e58fabb7b9647f17f93e8b129cc11e5\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Cellfind\\Github\\cellfind-chat-ios\\node_modules\\react-native-doc-viewer\\android\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\myccb\\.android\\build-cache\\6b1b121b6e58fabb7b9647f17f93e8b129cc11e5\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Cellfind\\Github\\cellfind-chat-ios\\node_modules\\react-native-doc-viewer\\android\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\myccb\\.android\\build-cache\\6b1b121b6e58fabb7b9647f17f93e8b129cc11e5\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Cellfind\\Github\\cellfind-chat-ios\\node_modules\\react-native-doc-viewer\\android\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\myccb\\.android\\build-cache\\6b1b121b6e58fabb7b9647f17f93e8b129cc11e5\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Cellfind\\Github\\cellfind-chat-ios\\node_modules\\react-native-doc-viewer\\android\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\myccb\\.android\\build-cache\\6b1b121b6e58fabb7b9647f17f93e8b129cc11e5\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Cellfind\\Github\\cellfind-chat-ios\\node_modules\\react-native-doc-viewer\\android\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\myccb\\.android\\build-cache\\6b1b121b6e58fabb7b9647f17f93e8b129cc11e5\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Cellfind\\Github\\cellfind-chat-ios\\node_modules\\react-native-doc-viewer\\android\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\myccb\\.android\\build-cache\\6b1b121b6e58fabb7b9647f17f93e8b129cc11e5\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Cellfind\\Github\\cellfind-chat-ios\\node_modules\\react-native-doc-viewer\\android\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\myccb\\.android\\build-cache\\6b1b121b6e58fabb7b9647f17f93e8b129cc11e5\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Cellfind\\Github\\cellfind-chat-ios\\node_modules\\react-native-doc-viewer\\android\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\myccb\\.android\\build-cache\\6b1b121b6e58fabb7b9647f17f93e8b129cc11e5\\output\\res\\color\\switch_thumb_material_light.xml"
+    }
+]
