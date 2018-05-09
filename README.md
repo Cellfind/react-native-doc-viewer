@@ -39,6 +39,9 @@ Changelog:
 
 `$ react-native link react-native-doc-viewer`
 
+#### iOS
+Include in Podfile:
+`pod 'RNReactNativeDocViewer', path: '../node_modules/react-native-doc-viewer/ios'`
 
 ### Manual installation
 
